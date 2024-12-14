@@ -1,4 +1,4 @@
-# MySQL-Tutorial
+# MySQL-Tutorial ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ### **1. Introduction to SQL and MySQL**
 - [What is SQL?](#)

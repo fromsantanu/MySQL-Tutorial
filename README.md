@@ -21,6 +21,7 @@
 - [Types of databases: Relational and Non-Relational](#)
 - [Key concepts: Tables, rows, columns, keys](#)
 - [Creating a database and table in phpMyAdmin](#)
+- [Practice Exercise 1](#)
 
 ---
 
@@ -28,10 +29,14 @@
 - [Understanding SQL syntax](#)
 - [Data Definition Language (DDL):](#)
   - [`CREATE`, `ALTER`, `DROP`](#)
+  - [Practice Exercise 2](#)
 - [Data Manipulation Language (DML):](#)
   - [`INSERT`, `UPDATE`, `DELETE`](#)
+  - [Practice Exercise 3](#)
 - [Data Query Language (DQL):](#)
   - [`SELECT`](#)
+  - [Practice Exercise 4](#)
+
 
 ---
 
@@ -48,6 +53,7 @@
 - [Primary keys and foreign keys](#)
 - [Modifying tables: Adding and removing columns](#)
 - [Dropping tables](#)
+- [Practice Exercise 5](#)
 
 ---
 
@@ -56,6 +62,7 @@
 - [Filtering data with `WHERE`](#)
 - [Sorting results with `ORDER BY`](#)
 - [Limiting results with `LIMIT`](#)
+- [Practice Exercise 6](#)
 
 ---
 
@@ -64,12 +71,14 @@
 - [Updating data in tables](#)
 - [Deleting data from tables](#)
 - [Bulk operations](#)
+- [Practice Exercise 7](#)
 ---
 
 ### **9. Aggregate Functions and Grouping**
 - [Using aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`](#)
 - [Grouping data with `GROUP BY`](#)
 - [Filtering groups with `HAVING`](#)
+- [Practice Exercise 8](#)
 
 ---
 
@@ -80,8 +89,10 @@
   - [LEFT JOIN](#)
   - [RIGHT JOIN](#)
   - [FULL OUTER JOIN](#)
+  - [Practice Exercise 9](#)
 - [Writing join queries](#)
 - [Joining multiple tables](#)
+- [Practice Exercise 10](#)
 
 ---
 
@@ -92,7 +103,9 @@
   - [Column](#)
   - [Row](#)
   - [Table](#)
+  - [Practice Exercise 11](#)
 - [Using subqueries with `SELECT`, `INSERT`, `UPDATE`, and `DELETE`](#)
+- [Practice Exercise 12](#)
 
 ---
 
@@ -100,6 +113,7 @@
 - [Understanding indexes and their purpose](#)
 - [Creating and managing indexes](#)
 - [Using constraints: `NOT NULL`, `UNIQUE`, `CHECK`, `DEFAULT`, `FOREIGN KEY`](#)
+- [Practice Exercise 13](#)
 
 ---
 
@@ -108,6 +122,7 @@
 - [Creating and executing stored procedures](#)
 - [Creating and using user-defined functions](#)
 - [Advantages of stored procedures and functions](#)
+- [Practice Exercise 14](#)
 
 ---
 
@@ -116,6 +131,7 @@
 - [Granting and revoking permissions](#)
 - [Securing databases in XAMPP](#)
 - [Preventing SQL injection attacks](#)
+- [Practice Exercise 15](#)
 
 ---
 

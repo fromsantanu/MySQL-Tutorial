@@ -1,50 +1,50 @@
 # MySQL-Tutorial ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ### **1. Introduction to SQL and MySQL**
-- [What is SQL?](#)
-- [Overview of MySQL](#)
-- [Why use XAMPP for MySQL?](#)
-- [Installing XAMPP and setting up MySQL](#)
+- [What is SQL?](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0101.md)
+- [Overview of MySQL](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0101.md)
+- [Why use XAMPP for MySQL?](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0101.md)
+- [Installing XAMPP and setting up MySQL](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0101.md)
 
 ---
 
 ### **2. Setting Up XAMPP and MySQL**
-- [Installing and configuring XAMPP](#)
-- [Starting and stopping Apache and MySQL services](#)
-- [Accessing phpMyAdmin for database management](#)
-- [Understanding the XAMPP folder structure](#)
+- [Installing and configuring XAMPP](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0201.md)
+- [Starting and stopping Apache and MySQL services](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0201.md)
+- [Accessing phpMyAdmin for database management](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0201.md)
+- [Understanding the XAMPP folder structure](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0201.md)
 
 ---
 
 ### **3. Understanding Databases and Tables**
-- [What is a database?](#)
-- [Types of databases: Relational and Non-Relational](#)
-- [Key concepts: Tables, rows, columns, keys](#)
-- [Creating a database and table in phpMyAdmin](#)
+- [What is a database?](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0301.md)
+- [Types of databases: Relational and Non-Relational](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0301.md)
+- [Key concepts: Tables, rows, columns, keys](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0301.md)
+- [Creating a database and table in phpMyAdmin](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0301.md)
 - [Practice Exercise 1](#)
 
 ---
 
 ### **4. SQL Basics**
-- [Understanding SQL syntax](#)
-- [Data Definition Language (DDL):](#)
-  - [`CREATE`, `ALTER`, `DROP`](#)
+- [Understanding SQL syntax](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0401.md)
+- [Data Definition Language (DDL):](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0402.md)
+  - [`CREATE`, `ALTER`, `DROP`](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0402.md)
   - [Practice Exercise 2](#)
-- [Data Manipulation Language (DML):](#)
-  - [`INSERT`, `UPDATE`, `DELETE`](#)
+- [Data Manipulation Language (DML):](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0403.md)
+  - [`INSERT`, `UPDATE`, `DELETE`](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0403.md)
   - [Practice Exercise 3](#)
-- [Data Query Language (DQL):](#)
-  - [`SELECT`](#)
+- [Data Query Language (DQL):](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0404.md)
+  - [`SELECT`](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0404.md)
   - [Practice Exercise 4](#)
 
 
 ---
 
 ### **5. Creating and Managing Databases**
-- [Creating a database using SQL and phpMyAdmin](#)
-- [Viewing existing databases](#)
-- [Deleting databases](#)
-- [Backing up and restoring databases in phpMyAdmin](#)
+- [Creating a database using SQL and phpMyAdmin](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0501.md)
+- [Viewing existing databases](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0501.md)
+- [Deleting databases](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0501.md)
+- [Backing up and restoring databases in phpMyAdmin](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/Lessons/CH0501.md)
 
 ---
 
